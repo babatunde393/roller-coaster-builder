@@ -13,7 +13,7 @@ An interactive 3D roller coaster builder built with React, Three.js, and Vite. D
 
 ## Live Demo
 
-Visit: https://jimenez537.github.io/roller-coaster-builder/
+Visit: https://babatunde393.github.io/roller-coaster-builder/
 
 ## Fork and Deploy Your Own
 
